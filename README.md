@@ -1,2 +1,2 @@
-# ML-models
-The above repo includes smaple projects done in ML using python libraries to predict results
+# Data analysis with Python
+This repo included sample project done with Python coding , with sample datasets from Kaggle platform.
